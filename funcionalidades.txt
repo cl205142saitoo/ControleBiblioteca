@@ -1,0 +1,4 @@
+1. Cadastro de novos livros
+2. Pesquisa de livros por titulos
+3. Registro de emprestimo de livro
+4. Controle de devolucao e multa
